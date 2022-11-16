@@ -4,10 +4,10 @@
 # Technologies Used
 The game uses a number of technologies to work properly:
 
-[Visual Studio Community]
-[HTML5]
-[JavaScript]
-[C#]
-[ASP.Net]
-[Async]
-[MVC]
+* [Visual Studio Community]
+* [HTML5]
+* [JavaScript]
+* [C#]
+* [ASP.Net]
+* [Async]
+* [MVC]
